@@ -1,0 +1,12 @@
+# Bloated Windows Databases
+*.pdb
+
+# Compiled files
+*.exe
+*.lo
+*.o
+*.obj
+*.slo
+
+# User specific files
+*.user
