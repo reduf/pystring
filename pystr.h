@@ -2,7 +2,9 @@
 #define PYSTR_H
 
 #include <assert.h>
+#include <limits.h>
 #include <stdarg.h>
+#include <stdint.h>
 
 #include <vector>
 
